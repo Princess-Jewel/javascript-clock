@@ -23,6 +23,17 @@ body{
     transform: rotate(var(--rotation));
     font-size: 0.8rem;
 }
+.clock .hand.minute{
+    width:5px;
+    height:40%; 
+    background-color: black;
+}
+
+ .clock .hand.hour{
+    width:6px;
+    height:30%;
+    background-color: black;
+}
 
 .clock .number1 {--rotation: 30deg; }
 .clock .number2 {--rotation: 60deg; }
