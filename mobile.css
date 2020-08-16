@@ -6,6 +6,9 @@
     border:2px solid black;
     position:relative;
 }
+h1{
+    font-size:35px;
+}
 body{
     background: rgb(189, 52, 148);
      display: grid;
