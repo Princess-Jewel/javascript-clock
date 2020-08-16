@@ -5,10 +5,9 @@
     border-radius:50%;
     border:2px solid black;
     position:relative;
+    margin-left: 20px;
 }
-h1{
-    font-size:35px;
-}
+
 body{
     background: rgb(189, 52, 148);
      display: grid;
