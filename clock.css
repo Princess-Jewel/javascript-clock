@@ -71,6 +71,9 @@ body{
     transform: translate(-50%, -50%);
     border-radius: 50%;
 }
+h1{
+    font-size: 70px;
+}
  .clock .hand.second{
     width: 3px;
     height:45%;
