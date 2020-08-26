@@ -11,6 +11,7 @@
 }
 
 body{
+    overflow: hidden;
     background: rgb(189, 52, 148);
      display: grid;
      justify-content: center;
